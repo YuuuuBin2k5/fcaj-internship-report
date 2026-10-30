@@ -1,4 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
+baseURL = "https://YuuuuBin2k5.github.io/fcaj-internship-report/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
@@ -15,8 +15,8 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   editURL = ""
-  description = ""
-  author = "thienlh@thienlu.com"
+  description = "FCAJ internship report and AWS workshop"
+  author = "YuuuuBin2k5"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
@@ -47,7 +47,7 @@ languageName = "Tiếng Việt"
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
 identifier = "AWS Study Group"
-url = "http://awsstudygroup.com"
+url = "https://awsstudygroup.com"
 weight = 20
 
 [[Languages.vi.menu.shortcuts]]

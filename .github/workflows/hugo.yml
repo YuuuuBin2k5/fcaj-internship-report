@@ -1,6 +1,8 @@
 name: Deploy Hugo site to GitHub Pages
 
 on:
+  workflow_dispatch:
+  pull_request:
   push:
     branches:
       - main
@@ -26,9 +28,9 @@ jobs:
         run: hugo --minify
 
       - name: Deploy to GitHub Pages
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages # <- đảm bảo đúng tên nhánh bạn dùng để deploy
-          force_orphan: true # <- đảm bảo xóa lịch sử cũ ở nhánh gh-pages (giảm lỗi)

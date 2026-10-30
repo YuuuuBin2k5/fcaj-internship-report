@@ -1,40 +1,33 @@
 ---
-title: "Báo cáo thực tập"
-date: 2024-01-01
+title: "Báo cáo thực tập FCAJ"
 weight: 1
 chapter: false
 ---
 
-# Báo cáo thực tập
-### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Văn A
+{{% notice info %}}
+Đây là khung báo cáo đang hoàn thiện. Các mục chưa cập nhật không phải minh chứng đã hoàn thành.
+{{% /notice %}}
 
-&emsp; **Số điện thoại:** 0989888999
+# Báo cáo thực tập FCAJ
 
-&emsp; **Email:** Anguyenvan@gmail.com
+## Thông tin sinh viên
 
-&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+| Thông tin | Nội dung |
+| --- | --- |
+| Họ và tên | Chưa cập nhật |
+| Số điện thoại | Chưa cập nhật |
+| Email | Chưa cập nhật |
+| Trường | Chưa cập nhật |
+| Chuyên ngành | Chưa cập nhật |
+| Lớp / nhóm | Chưa cập nhật |
+| Công ty thực tập | Chưa cập nhật |
+| Vị trí thực tập | Chưa cập nhật |
+| Thời gian thực tập | Chưa cập nhật |
 
-&emsp; **Ngành:** Công nghệ thông tin
+## Các phần báo cáo
 
-&emsp; **Lớp:** AWS082025
+{{% children depth="1" /%}}
 
-&emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
+## Tiến độ
 
-&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
-
-&emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
-
-![Ảnh đại diện của bạn](/images/avatar.png)
-
-
-
-### Nội dung báo cáo
-
-1.  [Worklog](1-Worklog/)
-2.  [Proposal](2-Proposal/)
-3.  [Các bài blogs đã đăng](3-BlogsPosted/)
-4.  [Các events đã tham gia](4-EventParticipated/)
-5.  [Workshop](5-Workshop/)
-6.  [Tự đánh giá](6-Self-evaluation/)
-7.  [Chia sẻ, đóng góp ý kiến](7-Feedback/)
+Khởi tạo cấu trúc; chưa bổ sung nội dung và minh chứng cá nhân.

@@ -1,44 +1,33 @@
 ---
-title: "Internship Report"
-date: 2024-01-01
+title: "FCAJ Internship Report"
 weight: 1
 chapter: false
 ---
 
-    
-# Internship Report
-
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
+{{% notice info %}}
+This report is being prepared. Unfilled sections do not represent completed work or evidence.
 {{% /notice %}}
 
-### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+# FCAJ Internship Report
 
-&emsp; **Phone Number:** 0989888999 
+## Student information
 
-&emsp; **Email:** Anguyenvan@gmail.com
+| Field | Details |
+| --- | --- |
+| Full name | Not yet provided |
+| Phone | Not yet provided |
+| Email | Not yet provided |
+| University | Not yet provided |
+| Major | Not yet provided |
+| Class / group | Not yet provided |
+| Internship company | Not yet provided |
+| Position | Not yet provided |
+| Internship dates | Not yet provided |
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+## Report sections
 
-&emsp; **Major:** Information Technology
+{{% children depth="1" /%}}
 
-&emsp; **Class:** AWS082025
+## Progress
 
-&emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
-
-&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
-
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
-
-![Your profile picture](/images/avatar.png)
-
-### Report Content
-
-1.  [Worklog](1-Worklog/)
-2.  [Proposal](2-Proposal/)
-3.  [BlogsPosted](3-BlogsPosted/)
-4.  [Events Participated](4-EventParticipated/)
-5.  [Workshop](5-Workshop/)
-6.  [Self-evaluation](6-Self-evaluation/)
-7.  [Sharing and Feedback](7-Feedback/)
+Structure initialized; personal content and evidence are pending.

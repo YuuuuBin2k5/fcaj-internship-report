@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404 · {{ .Site.Title }}</title>
+  <style>body{font-family:system-ui,sans-serif;max-width:42rem;margin:12vh auto;padding:1.5rem;line-height:1.6;color:#232f3e}a{color:#955700}</style>
+</head>
+<body>
+  <h1>404</h1>
+  {{ if eq .Site.Language.Lang "vi" }}
+  <p>Không tìm thấy trang bạn yêu cầu.</p>
+  <a href="{{ .Site.Home.RelPermalink }}">Về trang chủ</a>
+  {{ else }}
+  <p>The requested page could not be found.</p>
+  <a href="{{ .Site.Home.RelPermalink }}">Return home</a>
+  {{ end }}
+</body>
+</html>
