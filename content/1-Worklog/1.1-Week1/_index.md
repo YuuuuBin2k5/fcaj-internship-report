@@ -1,42 +1,26 @@
 ---
-title: "Week 1"
+title: "Week 1 Worklog"
 weight: 1
 chapter: false
 pre: "<b>1.1. </b>"
 ---
 
-{{% notice info %}}
-This report is being prepared. Unfilled sections do not represent completed work or evidence.
-{{% /notice %}}
+### Week 1 Objectives:
 
-## Period
+* Get familiar with the learning resources provided by First Cloud AI Journey.
+* Learn about AWS Free Tier and the account registration process.
 
-From: pending — To: pending.
+### Tasks to be carried out this week:
 
-## Weekly objectives
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | --- | --- | --- | --- |
+| — | Explore FCAJ learning resources: AWS Study Group on YouTube, Cloud Journey labs, and the Bootcamp platform. | To be confirmed | To be confirmed | [FCAJ resources](https://hcm-rules.awsfcaj.com/2-instructions/2.1-document/) |
+| — | Read the AWS Free Tier overview and compare the Free and Paid plans. | To be confirmed | To be confirmed | [AWS Free Tier](https://000001.awsfcaj.com/1-aws-free-tier-2025-revolution/) |
+| — | Read the registration steps: email verification, plan selection, contact and payment details, and phone verification. | To be confirmed | To be confirmed | [AWS Free Tier guide](https://000001.awsfcaj.com/) — section 3 |
+| — | Follow the guide to register an account; learn how to sign in to the Console and check credits. | To be confirmed | To be confirmed | [AWS Free Tier guide](https://000001.awsfcaj.com/) — section 3 |
+| — | Learn about cost monitoring, AWS Budgets, and cleaning up resources after practice. | To be confirmed | To be confirmed | [AWS Free Tier guide](https://000001.awsfcaj.com/) — section 7 |
 
-Not yet provided.
+### Week 1 Achievements:
 
-## Daily worklog
-
-| Date | Actual tasks | Results / evidence | References |
-| --- | --- | --- | --- |
-| Pending | — | — | — |
-| Pending | — | — | — |
-| Pending | — | — | — |
-| Pending | — | — | — |
-| Pending | — | — | — |
-
-Use actual dates; add rows for weekend activities if applicable.
-
-## Achievements
-
-Not yet provided.
-
-## Challenges and solutions
-
-Not yet provided.
-
-## Next steps
-
-Not yet provided.
+* The study topics cover FCAJ learning resources, Free Tier, and the account registration process.
+* Account registration and Console sign-in results are awaiting confirmation.
