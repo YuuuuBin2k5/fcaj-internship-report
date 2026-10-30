@@ -26,15 +26,9 @@ chapter: false
 
 &emsp; **Công ty thực tập:** AWS Việt Nam
 
-&emsp; **Chương trình thực tập:** First Cloud AI Journey Workforce Bootcamp
-
 &emsp; **Vị trí thực tập:** Backend Developer
 
 &emsp; **Thời gian thực tập:** Từ 01/10/2026 đến 01/01/2027 (dự kiến)
-
-&emsp; **Địa điểm thực tập:** Tầng 26, tòa nhà Bitexco, số 2 Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh
-
-&emsp; **Người hướng dẫn:** Lữ Hoàn Thiện
 
 ## Các phần báo cáo
 
