@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>1.3. </b>"
 ---
 
-{{% notice info %}}
-Proposed study allocation, about 5 hours per day. Suggested self-study dates and unconfirmed activities must be verified before this is used as a completed worklog.
-{{% /notice %}}
-
 ### Week 3 Objectives:
 
 * Learn the basic components of Amazon VPC.

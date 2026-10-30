@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>1.12. </b>"
 ---
 
-{{% notice info %}}
-Đây là khung báo cáo đang hoàn thiện. Các mục chưa cập nhật không phải minh chứng đã hoàn thành.
-{{% /notice %}}
-
 ## Thời gian
 
 Từ: chưa cập nhật — Đến: chưa cập nhật.

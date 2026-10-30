@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>1.3. </b>"
 ---
 
-{{% notice info %}}
-Bản phân bổ học tập đề xuất, khoảng 5 giờ/ngày. Ngày tự học và các thao tác chưa xác nhận cần đối chiếu trước khi dùng làm báo cáo hoàn thành.
-{{% /notice %}}
-
 ### Mục tiêu tuần 3:
 
 * Tìm hiểu các thành phần cơ bản của Amazon VPC.

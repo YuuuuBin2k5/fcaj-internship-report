@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>1.1. </b>"
 ---
 
-{{% notice info %}}
-Bản phân bổ học tập đề xuất, khoảng 5 giờ/ngày. Ngày tự học và các thao tác chưa xác nhận cần đối chiếu trước khi dùng làm báo cáo hoàn thành.
-{{% /notice %}}
-
 ### Mục tiêu tuần 1:
 
 * Làm quen với nguồn học của FCAJ và giao diện AWS Console.

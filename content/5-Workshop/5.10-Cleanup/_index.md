@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>5.10. </b>"
 ---
 
-{{% notice info %}}
-This report is being prepared. Unfilled sections do not represent completed work or evidence.
-{{% /notice %}}
-
 ## Resource deletion order
 
 Not yet provided.

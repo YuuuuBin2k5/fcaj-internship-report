@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>6. </b>"
 ---
 
-{{% notice info %}}
-Đây là khung báo cáo đang hoàn thiện. Các mục chưa cập nhật không phải minh chứng đã hoàn thành.
-{{% /notice %}}
-
 Chọn Tốt / Khá / Trung bình và nhận xét bằng minh chứng thực tế.
 
 | Tiêu chí | Mức đánh giá | Nhận xét / minh chứng |

@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>1.1. </b>"
 ---
 
-{{% notice info %}}
-Proposed study allocation, about 5 hours per day. Suggested self-study dates and unconfirmed activities must be verified before this is used as a completed worklog.
-{{% /notice %}}
-
 ### Week 1 Objectives:
 
 * Get familiar with FCAJ learning resources and the AWS Console.

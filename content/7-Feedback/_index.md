@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>7. </b>"
 ---
 
-{{% notice info %}}
-This report is being prepared. Unfilled sections do not represent completed work or evidence.
-{{% /notice %}}
-
 ## Program experience
 
 Not yet provided.

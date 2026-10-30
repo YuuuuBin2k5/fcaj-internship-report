@@ -4,10 +4,6 @@ weight: 1
 chapter: false
 ---
 
-{{% notice info %}}
-Đây là khung báo cáo đang hoàn thiện. Các mục chưa cập nhật không phải minh chứng đã hoàn thành.
-{{% /notice %}}
-
 # Báo cáo thực tập FCAJ
 
 ### Thông tin sinh viên:

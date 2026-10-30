@@ -4,10 +4,6 @@ weight: 1
 chapter: false
 ---
 
-{{% notice info %}}
-This report is being prepared. Unfilled sections do not represent completed work or evidence.
-{{% /notice %}}
-
 # FCAJ Internship Report
 
 ### Student Information:

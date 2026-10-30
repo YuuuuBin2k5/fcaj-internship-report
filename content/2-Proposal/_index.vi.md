@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>2. </b>"
 ---
 
-{{% notice info %}}
-Đây là khung báo cáo đang hoàn thiện. Các mục chưa cập nhật không phải minh chứng đã hoàn thành.
-{{% /notice %}}
-
 ## Tổng quan đề tài
 
 Chưa cập nhật.

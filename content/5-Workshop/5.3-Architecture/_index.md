@@ -5,10 +5,6 @@ chapter: false
 pre: "<b>5.3. </b>"
 ---
 
-{{% notice info %}}
-This report is being prepared. Unfilled sections do not represent completed work or evidence.
-{{% /notice %}}
-
 ## Personally designed architecture diagram
 
 Not yet provided.
