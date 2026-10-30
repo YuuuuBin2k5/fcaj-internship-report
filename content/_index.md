@@ -24,11 +24,17 @@ This report is being prepared. Unfilled sections do not represent completed work
 
 &emsp; **Class:** Not yet provided
 
-&emsp; **Internship Company:** Not yet provided
+&emsp; **Internship Company:** AWS Vietnam
+
+&emsp; **Internship Program:** First Cloud AI Journey Workforce Bootcamp
 
 &emsp; **Internship Position:** Backend Developer
 
 &emsp; **Internship Duration:** From 01/10/2026 to 01/01/2027 (expected)
+
+&emsp; **Internship Location:** 26th Floor, Bitexco Tower, 2 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City
+
+&emsp; **Supervisor:** Lữ Hoàn Thiện
 
 ## Report sections
 
