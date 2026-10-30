@@ -14,9 +14,9 @@ This report is being prepared. Unfilled sections do not represent completed work
 
 &emsp; **Full Name:** Đào Nguyễn Nhật Anh
 
-&emsp; **Phone Number:** Not yet provided
+&emsp; **Phone Number:** 0786759178
 
-&emsp; **Email:** Not yet provided
+&emsp; **Email:** daonguyennhatanh0910@gmail.com
 
 &emsp; **University:** Đại học Công Nghệ Kỹ Thuật TPHCM
 

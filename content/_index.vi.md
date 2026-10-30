@@ -14,9 +14,9 @@ chapter: false
 
 &emsp; **Họ và tên:** Đào Nguyễn Nhật Anh
 
-&emsp; **Số điện thoại:** Chưa cập nhật
+&emsp; **Số điện thoại:** 0786759178
 
-&emsp; **Email:** Chưa cập nhật
+&emsp; **Email:** daonguyennhatanh0910@gmail.com
 
 &emsp; **Trường:** Đại học Công Nghệ Kỹ Thuật TPHCM
 
