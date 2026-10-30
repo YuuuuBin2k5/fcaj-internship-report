@@ -14,15 +14,15 @@ chapter: false
 
 | Thông tin | Nội dung |
 | --- | --- |
-| Họ và tên | Chưa cập nhật |
+| Họ và tên | Đào Nguyễn Nhật Anh |
 | Số điện thoại | Chưa cập nhật |
 | Email | Chưa cập nhật |
-| Trường | Chưa cập nhật |
-| Chuyên ngành | Chưa cập nhật |
+| Trường | Đại học Công Nghệ Kỹ Thuật TPHCM |
+| Chuyên ngành | Công nghệ phần mềm |
 | Lớp / nhóm | Chưa cập nhật |
 | Công ty thực tập | Chưa cập nhật |
-| Vị trí thực tập | Chưa cập nhật |
-| Thời gian thực tập | Chưa cập nhật |
+| Vị trí thực tập | Backend Developer |
+| Thời gian thực tập | 01/10/2026 – 01/01/2027 (dự kiến) |
 
 ## Các phần báo cáo
 
@@ -30,4 +30,4 @@ chapter: false
 
 ## Tiến độ
 
-Khởi tạo cấu trúc; chưa bổ sung nội dung và minh chứng cá nhân.
+Đã cập nhật thông tin hồ sơ ban đầu. Nhật ký thực tập, đề tài Workshop và minh chứng đang được bổ sung.

@@ -14,15 +14,15 @@ This report is being prepared. Unfilled sections do not represent completed work
 
 | Field | Details |
 | --- | --- |
-| Full name | Not yet provided |
+| Full name | Đào Nguyễn Nhật Anh |
 | Phone | Not yet provided |
 | Email | Not yet provided |
-| University | Not yet provided |
-| Major | Not yet provided |
+| University | Đại học Công Nghệ Kỹ Thuật TPHCM |
+| Major | Software Engineering |
 | Class / group | Not yet provided |
 | Internship company | Not yet provided |
-| Position | Not yet provided |
-| Internship dates | Not yet provided |
+| Position | Backend Developer |
+| Internship dates | 1 October 2026 – 1 January 2027 (expected) |
 
 ## Report sections
 
@@ -30,4 +30,4 @@ This report is being prepared. Unfilled sections do not represent completed work
 
 ## Progress
 
-Structure initialized; personal content and evidence are pending.
+Initial profile information has been added. Worklogs, the workshop topic, and supporting evidence are being prepared.
