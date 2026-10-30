@@ -14,9 +14,9 @@ pre: "<b>1.2. </b>"
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Đọc phần giới thiệu IAM và phân biệt root user với IAM User (1,5 giờ).<br>- Tìm hiểu User, Group và cách gán policy (2 giờ).<br>- Đọc policy mẫu, ghi chú Allow, Deny, Action và Resource (1,5 giờ). | 12/10/2026 | 12/10/2026 | [IAM — phần giới thiệu](https://000002.awsfcaj.com/) |
-| 4 | - Đọc phần tạo AdminGroup và AdminUser (1 giờ).<br>- Thực hành tạo group, gán policy và thêm user theo bài hướng dẫn (2,5 giờ).<br>- Thử đăng nhập bằng IAM User, kiểm tra nhóm quyền và lưu kết quả thực tế (1,5 giờ). | 14/10/2026 | 14/10/2026 | [IAM — tạo Group và User](https://000002.awsfcaj.com/) |
-| 6 | - Tìm hiểu permission policy và trust policy của IAM Role (1,5 giờ).<br>- Thực hành tạo AdminRole, OperatorUser và cấu hình Switch Role theo hướng dẫn (2 giờ).<br>- Kiểm tra kết quả, dọn tài nguyên lab không còn dùng và tổng hợp ghi chú (1,5 giờ). | 16/10/2026 | 16/10/2026 | [IAM — Role, Switch Role và cleanup](https://000002.awsfcaj.com/) |
+| 2 | - Đọc phần giới thiệu IAM và phân biệt root user với IAM User.<br>- Tìm hiểu User, Group và cách gán policy.<br>- Đọc policy mẫu, ghi chú Allow, Deny, Action và Resource. | 12/10/2026 | 12/10/2026 | [IAM — phần giới thiệu](https://000002.awsfcaj.com/) |
+| 4 | - Đọc phần tạo AdminGroup và AdminUser.<br>- Thực hành tạo group, gán policy và thêm user theo bài hướng dẫn.<br>- Thử đăng nhập bằng IAM User, kiểm tra nhóm quyền và lưu kết quả thực tế. | 14/10/2026 | 14/10/2026 | [IAM — tạo Group và User](https://000002.awsfcaj.com/) |
+| 6 | - Tìm hiểu permission policy và trust policy của IAM Role.<br>- Thực hành tạo AdminRole, OperatorUser và cấu hình Switch Role theo hướng dẫn.<br>- Kiểm tra kết quả, dọn tài nguyên lab không còn dùng và tổng hợp ghi chú. | 16/10/2026 | 16/10/2026 | [IAM — Role, Switch Role và cleanup](https://000002.awsfcaj.com/) |
 
 ### Kết quả đạt được tuần 2:
 

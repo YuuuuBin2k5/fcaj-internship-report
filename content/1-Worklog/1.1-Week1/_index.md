@@ -14,10 +14,10 @@ pre: "<b>1.1. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Explore FCAJ resources and read the Free Tier overview (2 hours).<br>- Read the registration steps and create an AWS account (2 hours).<br>- Explore the Console and note topics for further study (1 hour). | 05/10/2026 | 05/10/2026 | [FCAJ resources](https://hcm-rules.awsfcaj.com/2-instructions/2.1-document/) · [AWS account setup](https://000001.awsfcaj.com/) |
-| 3 | - Review the Free and Paid plans and credit conditions (1.5 hours).<br>- Learn about Regions, Availability Zones, and service categories in the learning roadmap (2 hours).<br>- Practice finding services in the Console and take notes (1.5 hours). | 06/10/2026 | 06/10/2026 | [AWS Free Tier](https://000001.awsfcaj.com/) |
-| 5 | - Read about cost management and AWS Budgets (2 hours).<br>- Study cost budget setup, alert thresholds, and notification email settings (2 hours).<br>- Note how to check credits and usage in Billing (1 hour). | 08/10/2026 | 08/10/2026 | [AWS Budgets](https://000007.awsfcaj.com/) · [Free Tier and costs](https://000001.awsfcaj.com/) |
-| 6 | - Read about credit-consuming services and resource cleanup (1.5 hours).<br>- Review Console and Billing topics and revisit unclear sections (2 hours).<br>- Summarize the first week and preview the IAM introduction (1.5 hours). | 09/10/2026 | 09/10/2026 | [Free Tier guide](https://000001.awsfcaj.com/) · [IAM introduction](https://000002.awsfcaj.com/) |
+| 2 | - Explore FCAJ resources and read the Free Tier overview.<br>- Read the registration steps and create an AWS account.<br>- Explore the Console and note topics for further study. | 05/10/2026 | 05/10/2026 | [FCAJ resources](https://hcm-rules.awsfcaj.com/2-instructions/2.1-document/) · [AWS account setup](https://000001.awsfcaj.com/) |
+| 3 | - Review the Free and Paid plans and credit conditions.<br>- Learn about Regions, Availability Zones, and service categories in the learning roadmap.<br>- Practice finding services in the Console and take notes. | 06/10/2026 | 06/10/2026 | [AWS Free Tier](https://000001.awsfcaj.com/) |
+| 5 | - Read about cost management and AWS Budgets.<br>- Study cost budget setup, alert thresholds, and notification email settings.<br>- Note how to check credits and usage in Billing. | 08/10/2026 | 08/10/2026 | [AWS Budgets](https://000007.awsfcaj.com/) · [Free Tier and costs](https://000001.awsfcaj.com/) |
+| 6 | - Read about credit-consuming services and resource cleanup.<br>- Review Console and Billing topics and revisit unclear sections.<br>- Summarize the first week and preview the IAM introduction. | 09/10/2026 | 09/10/2026 | [Free Tier guide](https://000001.awsfcaj.com/) · [IAM introduction](https://000002.awsfcaj.com/) |
 
 ### Week 1 Achievements:
 
