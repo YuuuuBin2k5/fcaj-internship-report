@@ -1,42 +1,26 @@
 ---
-title: "Tuần 3"
+title: "Worklog Tuần 3"
 weight: 3
 chapter: false
 pre: "<b>1.3. </b>"
 ---
 
-{{% notice info %}}
-Đây là khung báo cáo đang hoàn thiện. Các mục chưa cập nhật không phải minh chứng đã hoàn thành.
-{{% /notice %}}
+### Mục tiêu tuần 3:
 
-## Thời gian
+* Tìm hiểu cách quản lý quyền truy cập tài nguyên AWS bằng IAM.
+* Phân biệt IAM User, Group, Policy và Role.
+* Nắm được quy trình tạo người dùng, gán quyền và chuyển đổi vai trò theo bài hướng dẫn.
 
-Từ: chưa cập nhật — Đến: chưa cập nhật.
+### Các công việc cần triển khai trong tuần này:
 
-## Mục tiêu tuần
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 4 | - Đọc phần giới thiệu AWS IAM, phân biệt tài khoản root với IAM User.<br>- Tìm hiểu User, Group, Policy và Role; cách quản lý quyền thông qua nhóm người dùng.<br>- Đọc hướng dẫn tạo AdminGroup, AdminUser và đăng nhập bằng IAM User.<br>- Tìm hiểu cách tạo AdminRole, OperatorUser và cấp quyền `sts:AssumeRole` để thực hiện Switch Role.<br>- Đọc phần dọn dẹp các tài nguyên IAM dùng trong bài lab. | 21/10/2026 | 21/10/2026 | [Quản lý quyền truy cập với AWS IAM](https://000002.awsfcaj.com/) |
 
-Chưa cập nhật.
+### Kết quả đạt được tuần 3:
 
-## Nhật ký hằng ngày
-
-| Ngày | Công việc thực tế | Kết quả / minh chứng | Tài liệu tham khảo |
-| --- | --- | --- | --- |
-| Chưa cập nhật | — | — | — |
-| Chưa cập nhật | — | — | — |
-| Chưa cập nhật | — | — | — |
-| Chưa cập nhật | — | — | — |
-| Chưa cập nhật | — | — | — |
-
-Ghi ngày thực tế; thêm dòng nếu có hoạt động cuối tuần.
-
-## Kết quả đạt được
-
-Chưa cập nhật.
-
-## Khó khăn và cách giải quyết
-
-Chưa cập nhật.
-
-## Kế hoạch tiếp theo
-
-Chưa cập nhật.
+* Phân biệt được IAM User, Group, Policy và Role; hiểu vai trò của từng thành phần trong việc quản lý truy cập.
+* Hiểu cách người dùng nhận quyền từ policy gắn vào group và vì sao cần hạn chế sử dụng tài khoản root cho công việc hằng ngày.
+* Nắm được các bước tạo người dùng, nhóm và role theo bài hướng dẫn.
+* Hiểu Switch Role là cách sử dụng quyền của một role trong phiên làm việc; cần cấu hình quyền chuyển role và quan hệ tin cậy phù hợp.
+* Biết cần cấp quyền theo nhu cầu sử dụng và xóa các tài nguyên IAM thử nghiệm khi không còn dùng.
