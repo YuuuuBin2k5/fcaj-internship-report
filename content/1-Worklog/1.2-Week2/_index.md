@@ -1,42 +1,29 @@
 ---
-title: "Week 2"
+title: "Week 2 Worklog"
 weight: 2
 chapter: false
 pre: "<b>1.2. </b>"
 ---
 
 {{% notice info %}}
-This report is being prepared. Unfilled sections do not represent completed work or evidence.
+Proposed study allocation, about 5 hours per day. Suggested self-study dates and unconfirmed activities must be verified before this is used as a completed worklog.
 {{% /notice %}}
 
-## Period
+### Week 2 Objectives:
 
-From: pending — To: pending.
+* Learn how IAM Users, Groups, Policies, and Roles manage access.
+* Study and practice user creation, permission assignment, and role switching.
 
-## Weekly objectives
+### Tasks to be carried out this week:
 
-Not yet provided.
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | --- | --- | --- | --- |
+| Monday | - Read the IAM introduction and distinguish root from IAM users (1.5 hours).<br>- Study Users, Groups, and policy attachment (2 hours).<br>- Read sample policies and note Allow, Deny, Action, and Resource (1.5 hours). | 12/10/2026 | 12/10/2026 | [IAM — introduction](https://000002.awsfcaj.com/) |
+| Wednesday | - Read the AdminGroup and AdminUser instructions (1 hour).<br>- Practice group creation, policy attachment, and user creation using the guide (2.5 hours).<br>- Try IAM user sign-in, check group permissions, and record actual results (1.5 hours). | 14/10/2026 | 14/10/2026 | [IAM — create Groups and Users](https://000002.awsfcaj.com/) |
+| Friday | - Study IAM role permission and trust policies (1.5 hours).<br>- Practice creating AdminRole and OperatorUser and configuring role switching with the guide (2 hours).<br>- Check results, clean up unused lab resources, and summarize notes (1.5 hours). | 16/10/2026 | 16/10/2026 | [IAM — Roles, role switching, and cleanup](https://000002.awsfcaj.com/) |
 
-## Daily worklog
+### Week 2 Achievements:
 
-| Date | Actual tasks | Results / evidence | References |
-| --- | --- | --- | --- |
-| Pending | — | — | — |
-| Pending | — | — | — |
-| Pending | — | — | — |
-| Pending | — | — | — |
-| Pending | — | — | — |
-
-Use actual dates; add rows for weekend activities if applicable.
-
-## Achievements
-
-Not yet provided.
-
-## Challenges and solutions
-
-Not yet provided.
-
-## Next steps
-
-Not yet provided.
+* Expected to distinguish Users, Groups, Policies, and Roles.
+* Expected to understand group-based permissions and role assumption requirements.
+* Resource creation, sign-in, and role-switching results need to be checked against actual practice.

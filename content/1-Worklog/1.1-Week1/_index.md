@@ -5,23 +5,26 @@ chapter: false
 pre: "<b>1.1. </b>"
 ---
 
+{{% notice info %}}
+Proposed study allocation, about 5 hours per day. Suggested self-study dates and unconfirmed activities must be verified before this is used as a completed worklog.
+{{% /notice %}}
+
 ### Week 1 Objectives:
 
-* Get familiar with the learning resources provided by First Cloud AI Journey.
-* Learn about AWS Free Tier and the account registration process.
+* Get familiar with FCAJ learning resources and the AWS Console.
+* Learn about Free Tier, account registration, and cost monitoring.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| Monday | Explore FCAJ learning resources: AWS Study Group on YouTube, Cloud Journey labs, and the Bootcamp platform. | 05/10/2026 | 05/10/2026 | [FCAJ resources](https://hcm-rules.awsfcaj.com/2-instructions/2.1-document/) |
-| Monday | Read the AWS Free Tier overview and compare the Free and Paid plans. | 05/10/2026 | 05/10/2026 | [AWS Free Tier](https://000001.awsfcaj.com/1-aws-free-tier-2025-revolution/) |
-| Monday | Read the registration steps: email verification, plan selection, contact and payment details, and phone verification. | 05/10/2026 | 05/10/2026 | [AWS Free Tier guide](https://000001.awsfcaj.com/) — section 3 |
-| Monday | Follow the guide to register an account; learn how to sign in to the Console and check credits. | 05/10/2026 | 05/10/2026 | [AWS Free Tier guide](https://000001.awsfcaj.com/) — section 3 |
-| Monday | Learn about cost monitoring, AWS Budgets, and cleaning up resources after practice. | 05/10/2026 | 05/10/2026 | [AWS Free Tier guide](https://000001.awsfcaj.com/) — section 7 |
+| Monday | - Explore FCAJ resources and read the Free Tier overview (2 hours).<br>- Read the registration steps and create an AWS account (2 hours).<br>- Explore the Console and note topics for further study (1 hour). | 05/10/2026 | 05/10/2026 | [FCAJ resources](https://hcm-rules.awsfcaj.com/2-instructions/2.1-document/) · [AWS account setup](https://000001.awsfcaj.com/) |
+| Tuesday | - Review the Free and Paid plans and credit conditions (1.5 hours).<br>- Learn about Regions, Availability Zones, and service categories in the learning roadmap (2 hours).<br>- Practice finding services in the Console and take notes (1.5 hours). | 06/10/2026 | 06/10/2026 | [AWS Free Tier](https://000001.awsfcaj.com/) |
+| Thursday | - Read about cost management and AWS Budgets (2 hours).<br>- Study cost budget setup, alert thresholds, and notification email settings (2 hours).<br>- Note how to check credits and usage in Billing (1 hour). | 08/10/2026 | 08/10/2026 | [AWS Budgets](https://000007.awsfcaj.com/) · [Free Tier and costs](https://000001.awsfcaj.com/) |
+| Friday | - Read about credit-consuming services and resource cleanup (1.5 hours).<br>- Review Console and Billing topics and revisit unclear sections (2 hours).<br>- Summarize the first week and preview the IAM introduction (1.5 hours). | 09/10/2026 | 09/10/2026 | [Free Tier guide](https://000001.awsfcaj.com/) · [IAM introduction](https://000002.awsfcaj.com/) |
 
 ### Week 1 Achievements:
 
-* Identified FCAJ learning resources for lectures and hands-on labs.
-* Understood the differences between the Free and Paid plans, how to check credits, and how to monitor costs.
-* Successfully created an AWS account by following the guide.
+* Successfully created an AWS account on 5 October 2026.
+* Expected after self-study: find FCAJ resources, distinguish the Free Tier plans, and check credits.
+* Expected to understand cost alert setup; budget creation has not been confirmed.

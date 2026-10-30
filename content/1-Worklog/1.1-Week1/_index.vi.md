@@ -5,23 +5,26 @@ chapter: false
 pre: "<b>1.1. </b>"
 ---
 
+{{% notice info %}}
+Bản phân bổ học tập đề xuất, khoảng 5 giờ/ngày. Ngày tự học và các thao tác chưa xác nhận cần đối chiếu trước khi dùng làm báo cáo hoàn thành.
+{{% /notice %}}
+
 ### Mục tiêu tuần 1:
 
-* Làm quen với các nguồn tài liệu học tập của chương trình First Cloud AI Journey.
-* Tìm hiểu AWS Free Tier và quy trình tạo tài khoản AWS.
+* Làm quen với nguồn học của FCAJ và giao diện AWS Console.
+* Tìm hiểu Free Tier, tạo tài khoản và cách theo dõi chi phí.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | Tìm hiểu các nguồn học của FCAJ: YouTube AWS Study Group, hệ thống lab Cloud Journey và nền tảng Bootcamp. | 05/10/2026 | 05/10/2026 | [Nguồn học FCAJ](https://hcm-rules.awsfcaj.com/2-instructions/2.1-document/) |
-| 2 | Đọc tổng quan AWS Free Tier và tìm hiểu sự khác nhau giữa Free Plan và Paid Plan. | 05/10/2026 | 05/10/2026 | [AWS Free Tier](https://000001.awsfcaj.com/1-aws-free-tier-2025-revolution/) |
-| 2 | Đọc từng bước đăng ký tài khoản: xác thực email, chọn gói, điền thông tin liên hệ, thanh toán và xác thực số điện thoại. | 05/10/2026 | 05/10/2026 | [Hướng dẫn AWS Free Tier](https://000001.awsfcaj.com/) — mục 3 |
-| 2 | Tiến hành đăng ký tài khoản theo hướng dẫn; tìm hiểu cách đăng nhập Console và kiểm tra credit. | 05/10/2026 | 05/10/2026 | [Hướng dẫn AWS Free Tier](https://000001.awsfcaj.com/) — mục 3 |
-| 2 | Tìm hiểu cách theo dõi chi phí, AWS Budgets và lưu ý dọn dẹp tài nguyên sau khi thực hành. | 05/10/2026 | 05/10/2026 | [Hướng dẫn AWS Free Tier](https://000001.awsfcaj.com/) — mục 7 |
+| 2 | - Tìm hiểu nguồn học FCAJ và đọc tổng quan Free Tier (2 giờ).<br>- Đọc các bước đăng ký và tạo tài khoản AWS (2 giờ).<br>- Làm quen giao diện Console, ghi lại các mục cần tìm hiểu tiếp (1 giờ). | 05/10/2026 | 05/10/2026 | [Nguồn học FCAJ](https://hcm-rules.awsfcaj.com/2-instructions/2.1-document/) · [Tạo tài khoản AWS](https://000001.awsfcaj.com/) |
+| 3 | - Đọc lại phần so sánh Free Plan và Paid Plan, điều kiện sử dụng credit (1,5 giờ).<br>- Tìm hiểu Region, Availability Zone và các nhóm dịch vụ trong lộ trình học (2 giờ).<br>- Tập tìm dịch vụ trên Console và ghi chú nội dung đã đọc (1,5 giờ). | 06/10/2026 | 06/10/2026 | [AWS Free Tier](https://000001.awsfcaj.com/) |
+| 5 | - Đọc phần quản lý chi phí và tìm hiểu AWS Budgets (2 giờ).<br>- Xem các bước tạo cost budget, chọn ngưỡng cảnh báo và email nhận thông báo (2 giờ).<br>- Ghi lại cách kiểm tra credit và các khoản sử dụng trong Billing (1 giờ). | 08/10/2026 | 08/10/2026 | [AWS Budgets](https://000007.awsfcaj.com/) · [Free Tier và chi phí](https://000001.awsfcaj.com/) |
+| 6 | - Đọc các lưu ý về dịch vụ tiêu hao credit và dọn dẹp tài nguyên (1,5 giờ).<br>- Ôn lại các mục Console và Billing đã tìm hiểu; đọc lại phần chưa rõ (2 giờ).<br>- Tổng hợp ghi chú tuần đầu và đọc trước phần giới thiệu IAM (1,5 giờ). | 09/10/2026 | 09/10/2026 | [Hướng dẫn Free Tier](https://000001.awsfcaj.com/) · [Giới thiệu IAM](https://000002.awsfcaj.com/) |
 
 ### Kết quả đạt được tuần 1:
 
-* Biết các nguồn tài liệu học tập của FCAJ để theo dõi bài giảng và tìm bài lab.
-* Hiểu sự khác nhau giữa Free Plan và Paid Plan, cách kiểm tra credit và theo dõi chi phí.
-* Tạo tài khoản AWS thành công theo hướng dẫn.
+* Đã tạo tài khoản AWS thành công ngày 05/10/2026.
+* Dự kiến sau phần tự học: biết tìm tài liệu FCAJ, phân biệt hai gói Free Tier và kiểm tra credit.
+* Dự kiến nắm được các bước thiết lập cảnh báo chi phí; chưa xác nhận đã tạo budget.

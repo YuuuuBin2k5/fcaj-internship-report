@@ -5,22 +5,23 @@ chapter: false
 pre: "<b>1.3. </b>"
 ---
 
+{{% notice info %}}
+Bản phân bổ học tập đề xuất, khoảng 5 giờ/ngày. Ngày tự học và các thao tác chưa xác nhận cần đối chiếu trước khi dùng làm báo cáo hoàn thành.
+{{% /notice %}}
+
 ### Mục tiêu tuần 3:
 
-* Tìm hiểu cách quản lý quyền truy cập tài nguyên AWS bằng IAM.
-* Phân biệt IAM User, Group, Policy và Role.
-* Nắm được quy trình tạo người dùng, gán quyền và chuyển đổi vai trò theo bài hướng dẫn.
+* Tìm hiểu các thành phần cơ bản của Amazon VPC.
+* Hiểu luồng kết nối qua subnet, route table, Internet Gateway và Security Group.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 4 | - Đọc phần giới thiệu AWS IAM, phân biệt tài khoản root với IAM User.<br>- Tìm hiểu User, Group, Policy và Role; cách quản lý quyền thông qua nhóm người dùng.<br>- Đọc hướng dẫn tạo AdminGroup, AdminUser và đăng nhập bằng IAM User.<br>- Tìm hiểu cách tạo AdminRole, OperatorUser và cấp quyền `sts:AssumeRole` để thực hiện Switch Role.<br>- Đọc phần dọn dẹp các tài nguyên IAM dùng trong bài lab. | 21/10/2026 | 21/10/2026 | [Quản lý quyền truy cập với AWS IAM](https://000002.awsfcaj.com/) |
+| 4 | - Đọc khái niệm VPC, CIDR và subnet; phân biệt public subnet với private subnet (1,5 giờ).<br>- Tìm hiểu route table, Internet Gateway, Security Group và Network ACL (1,5 giờ).<br>- Theo hướng dẫn tạo VPC, subnet, Internet Gateway và route table; kiểm tra cấu hình và ghi chú (2 giờ). | 21/10/2026 | 21/10/2026 | [Amazon VPC — phần cơ bản](https://000003.awsfcaj.com/) |
 
 ### Kết quả đạt được tuần 3:
 
-* Phân biệt được IAM User, Group, Policy và Role; hiểu vai trò của từng thành phần trong việc quản lý truy cập.
-* Hiểu cách người dùng nhận quyền từ policy gắn vào group và vì sao cần hạn chế sử dụng tài khoản root cho công việc hằng ngày.
-* Nắm được các bước tạo người dùng, nhóm và role theo bài hướng dẫn.
-* Hiểu Switch Role là cách sử dụng quyền của một role trong phiên làm việc; cần cấu hình quyền chuyển role và quan hệ tin cậy phù hợp.
-* Biết cần cấp quyền theo nhu cầu sử dụng và xóa các tài nguyên IAM thử nghiệm khi không còn dùng.
+* Dự kiến hiểu vai trò của VPC, subnet, route table và Internet Gateway.
+* Dự kiến phân biệt được Security Group với Network ACL ở mức cơ bản.
+* Phạm vi tuần này tập trung vào VPC cơ bản; kết quả tạo mạng cần xác nhận theo thực hành.

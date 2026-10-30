@@ -5,22 +5,23 @@ chapter: false
 pre: "<b>1.3. </b>"
 ---
 
+{{% notice info %}}
+Proposed study allocation, about 5 hours per day. Suggested self-study dates and unconfirmed activities must be verified before this is used as a completed worklog.
+{{% /notice %}}
+
 ### Week 3 Objectives:
 
-* Learn how AWS IAM manages access to AWS resources.
-* Distinguish IAM Users, Groups, Policies, and Roles.
-* Understand the steps for creating users, assigning permissions, and switching roles in the guide.
+* Learn the basic components of Amazon VPC.
+* Understand connectivity through subnets, route tables, an Internet Gateway, and Security Groups.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| Wednesday | - Read the AWS IAM introduction and distinguish the root user from an IAM user.<br>- Study Users, Groups, Policies, and Roles, including permission management through user groups.<br>- Read the steps for creating AdminGroup and AdminUser and signing in as an IAM user.<br>- Learn how to create AdminRole and OperatorUser and grant `sts:AssumeRole` permission for role switching.<br>- Read the cleanup instructions for IAM resources used in the lab. | 21/10/2026 | 21/10/2026 | [Access management with AWS IAM](https://000002.awsfcaj.com/) |
+| Wednesday | - Read about VPCs, CIDR, and subnets; distinguish public and private subnets (1.5 hours).<br>- Study route tables, Internet Gateways, Security Groups, and Network ACLs (1.5 hours).<br>- Follow the VPC, subnet, Internet Gateway, and route table setup instructions; review the configuration and take notes (2 hours). | 21/10/2026 | 21/10/2026 | [Amazon VPC — fundamentals](https://000003.awsfcaj.com/) |
 
 ### Week 3 Achievements:
 
-* Distinguished IAM Users, Groups, Policies, and Roles and understood their purposes in access management.
-* Understood how users receive permissions from policies attached to their groups and why the root user should not be used for everyday tasks.
-* Learned the steps for creating users, groups, and roles in the guide.
-* Understood that switching roles provides the role's permissions during a session and requires appropriate role-switching permissions and a trust relationship.
-* Recognized the need to grant permissions based on actual requirements and remove unused test IAM resources.
+* Expected to understand VPCs, subnets, route tables, and Internet Gateways.
+* Expected to distinguish Security Groups from Network ACLs at a basic level.
+* This week focuses on VPC fundamentals; network creation results require confirmation.
