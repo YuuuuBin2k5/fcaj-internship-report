@@ -10,19 +10,25 @@ chapter: false
 
 # Báo cáo thực tập FCAJ
 
-## Thông tin sinh viên
+### Thông tin sinh viên:
 
-| Thông tin | Nội dung |
-| --- | --- |
-| Họ và tên | Đào Nguyễn Nhật Anh |
-| Số điện thoại | Chưa cập nhật |
-| Email | Chưa cập nhật |
-| Trường | Đại học Công Nghệ Kỹ Thuật TPHCM |
-| Chuyên ngành | Công nghệ phần mềm |
-| Lớp / nhóm | Chưa cập nhật |
-| Công ty thực tập | Chưa cập nhật |
-| Vị trí thực tập | Backend Developer |
-| Thời gian thực tập | 01/10/2026 – 01/01/2027 (dự kiến) |
+&emsp; **Họ và tên:** Đào Nguyễn Nhật Anh
+
+&emsp; **Số điện thoại:** Chưa cập nhật
+
+&emsp; **Email:** Chưa cập nhật
+
+&emsp; **Trường:** Đại học Công Nghệ Kỹ Thuật TPHCM
+
+&emsp; **Chuyên ngành:** Công nghệ phần mềm
+
+&emsp; **Lớp:** Chưa cập nhật
+
+&emsp; **Công ty thực tập:** Chưa cập nhật
+
+&emsp; **Vị trí thực tập:** Backend Developer
+
+&emsp; **Thời gian thực tập:** Từ 01/10/2026 đến 01/01/2027 (dự kiến)
 
 ## Các phần báo cáo
 
