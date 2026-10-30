@@ -18,7 +18,7 @@ Proposed study allocation, about 5 hours per day. Suggested self-study dates and
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| Wednesday | - Read about VPCs, CIDR, and subnets; distinguish public and private subnets (1.5 hours).<br>- Study route tables, Internet Gateways, Security Groups, and Network ACLs (1.5 hours).<br>- Follow the VPC, subnet, Internet Gateway, and route table setup instructions; review the configuration and take notes (2 hours). | 21/10/2026 | 21/10/2026 | [Amazon VPC — fundamentals](https://000003.awsfcaj.com/) |
+| 4 | - Read about VPCs, CIDR, and subnets; distinguish public and private subnets (1.5 hours).<br>- Study route tables, Internet Gateways, Security Groups, and Network ACLs (1.5 hours).<br>- Follow the VPC, subnet, Internet Gateway, and route table setup instructions; review the configuration and take notes (2 hours). | 21/10/2026 | 21/10/2026 | [Amazon VPC — fundamentals](https://000003.awsfcaj.com/) |
 
 ### Week 3 Achievements:
 
