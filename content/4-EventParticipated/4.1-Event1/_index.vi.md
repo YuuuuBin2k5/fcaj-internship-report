@@ -34,27 +34,27 @@ pre: "<b>4.1. </b>"
 
 #### Lộ trình học AWS
 
-* Phiên đầu giới thiệu cách kết hợp AWS Skill Builder để học nền tảng, các bài lab của cộng đồng để thực hành và AWS Builder Center để tìm đọc, chia sẻ kiến thức. Người học nên ghi lại lỗi và những gì đã hiểu sau mỗi bài lab. ([Xem từ 02:17](https://www.youtube.com/watch?v=qRSxBAPYttM&t=137))
+* Phiên đầu giới thiệu cách kết hợp AWS Skill Builder để học nền tảng, các bài lab của cộng đồng để thực hành và AWS Builder Center để tìm đọc, chia sẻ kiến thức. Người học nên ghi lại lỗi và những gì đã hiểu sau mỗi bài lab.
 
 #### AI trong phát triển phần mềm
 
-* Diễn giả chia sẻ cách sử dụng AI trong quá trình review mã nguồn và tự động hóa một số công việc. Nhóm sử dụng kiểm thử end-to-end, ảnh hoặc video để kiểm tra thay đổi, đồng thời chuyển các tác vụ như lint và migration lên máy chủ chung. ([Xem từ 38:06](https://www.youtube.com/watch?v=qRSxBAPYttM&t=2286))
+* Diễn giả chia sẻ cách sử dụng AI trong quá trình review mã nguồn và tự động hóa một số công việc. Nhóm sử dụng kiểm thử end-to-end, ảnh hoặc video để kiểm tra thay đổi, đồng thời chuyển các tác vụ như lint và migration lên máy chủ chung.
 
 #### Kinh nghiệm xây dựng web game
 
-* Khanh Duong trình bày quá trình xây dựng game nhiều người chơi với Lambda, DynamoDB, SQS và EventBridge. Phần chia sẻ đề cập việc xử lý các trận kết thúc đồng thời, phân quyền IAM và quản lý hạ tầng bằng AWS CDK. Những khó khăn trong quá trình làm giúp minh họa tầm quan trọng của việc đọc tài liệu và kiểm tra cấu hình dịch vụ. ([Xem từ 52:29](https://www.youtube.com/watch?v=qRSxBAPYttM&t=3149))
+* Khanh Duong trình bày quá trình xây dựng game nhiều người chơi với Lambda, DynamoDB, SQS và EventBridge. Phần chia sẻ đề cập việc xử lý các trận kết thúc đồng thời, phân quyền IAM và quản lý hạ tầng bằng AWS CDK. Những khó khăn trong quá trình làm giúp minh họa tầm quan trọng của việc đọc tài liệu và kiểm tra cấu hình dịch vụ.
 
 #### AWS Lambda Web Functions
 
-* Phiên này giới thiệu cách chạy ứng dụng HTTP trên Lambda và khả năng xử lý nhiều request đồng thời trong một môi trường. Bản demo là một website trắc nghiệm tính cách; diễn giả cũng trao đổi về cold start và chi phí khi ứng dụng chờ phản hồi từ dịch vụ khác. ([Xem từ 1:20:17](https://www.youtube.com/watch?v=qRSxBAPYttM&t=4817))
+* Phiên này giới thiệu cách chạy ứng dụng HTTP trên Lambda và khả năng xử lý nhiều request đồng thời trong một môi trường. Bản demo là một website trắc nghiệm tính cách; diễn giả cũng trao đổi về cold start và chi phí khi ứng dụng chờ phản hồi từ dịch vụ khác.
 
 #### Xử lý bất đồng bộ với Amazon SQS
 
-* Luong Cam Dao trình bày bài toán API phải chờ lâu khi yêu cầu tạo nội dung được xử lý. Giải pháp được giới thiệu là đưa công việc vào hàng đợi SQS, trả trạng thái chờ và xử lý sau. Phiên chia sẻ cũng đề cập Standard Queue, FIFO Queue, visibility timeout, long polling và dead-letter queue. ([Xem từ 1:42:19](https://www.youtube.com/watch?v=qRSxBAPYttM&t=6139))
+* Luong Cam Dao trình bày bài toán API phải chờ lâu khi yêu cầu tạo nội dung được xử lý. Giải pháp được giới thiệu là đưa công việc vào hàng đợi SQS, trả trạng thái chờ và xử lý sau. Phiên chia sẻ cũng đề cập Standard Queue, FIFO Queue, visibility timeout, long polling và dead-letter queue.
 
 #### Đóng góp mã nguồn mở
 
-* Phiên cuối chia sẻ cách bắt đầu từ các issue phù hợp với khả năng, viết pull request rõ ràng và duy trì việc đóng góp. Diễn giả cũng khuyến khích tìm hiểu các thay đổi của AWS để tìm cơ hội đóng góp cho những dự án như AWS CDK. ([Xem từ 2:04:53](https://www.youtube.com/watch?v=qRSxBAPYttM&t=7493))
+* Phiên cuối chia sẻ cách bắt đầu từ các issue phù hợp với khả năng, viết pull request rõ ràng và duy trì việc đóng góp. Diễn giả cũng khuyến khích tìm hiểu các thay đổi của AWS để tìm cơ hội đóng góp cho những dự án như AWS CDK.
 
 ### Những gì học được
 
