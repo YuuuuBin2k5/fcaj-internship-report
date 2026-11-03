@@ -5,13 +5,13 @@ chapter: false
 pre: "<b>4.1. </b>"
 ---
 
-# Bài thu hoạch: First Cloud AI Journey Community Day
+# Bài thu hoạch: FCAJ Community Day
 
 **Thông tin sự kiện**
 
-* **Tên sự kiện:** First Cloud AI Journey: Community Day 31/10
-* **Thời gian:** 31/10 — năm và giờ chưa xác nhận.
-* **Địa điểm:** Chưa xác nhận.
+* **Tên sự kiện:** FCAJ Community Day
+* **Thời gian:** 09:00–12:00, thứ Bảy, ngày 31/10/2026 (GMT+7).
+* **Địa điểm:** Bitexco Financial Tower, Thành phố Hồ Chí Minh.
 * **Vai trò:** Người tham dự.
 * **Video:** [First Cloud AI Journey: Community Day 31/10](https://www.youtube.com/watch?v=qRSxBAPYttM) trên kênh AWS Study Group.
 

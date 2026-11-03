@@ -5,13 +5,13 @@ chapter: false
 pre: "<b>4.1. </b>"
 ---
 
-# Summary Report: First Cloud AI Journey Community Day
+# Summary Report: FCAJ Community Day
 
 **Event information**
 
-* **Event:** First Cloud AI Journey: Community Day 31/10
-* **Date and time:** 31 October — year and time to be confirmed.
-* **Location:** To be confirmed.
+* **Event:** FCAJ Community Day
+* **Date and time:** Saturday, 31 October 2026, 09:00–12:00 (GMT+7).
+* **Location:** Bitexco Financial Tower, Ho Chi Minh City.
 * **Role:** Attendee.
 * **Video:** [First Cloud AI Journey: Community Day 31/10](https://www.youtube.com/watch?v=qRSxBAPYttM) on the AWS Study Group channel.
 
