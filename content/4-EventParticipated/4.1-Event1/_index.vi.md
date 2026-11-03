@@ -21,11 +21,11 @@ Sự kiện gồm các phiên chia sẻ về lộ trình học AWS, kinh nghiệ
 
 ### Danh sách diễn giả
 
-* **Trường Minh Tuấn:** Chia sẻ lộ trình học AWS cho người mới.
-* **Anh Đức (Henry):** Chia sẻ về ứng dụng AI trong quy trình phát triển phần mềm.
-* **Phúc Khang:** Chia sẻ kinh nghiệm thực tập và xây dựng web game.
+* **Minh Tuấn:** Chia sẻ lộ trình học AWS cho người mới.
+* **Đức (Henry):** Chia sẻ về ứng dụng AI trong quy trình phát triển phần mềm.
+* **Khanh Duong:** Chia sẻ kinh nghiệm thực tập và xây dựng web game.
 * **Thịnh Nguyễn:** Giới thiệu AWS Lambda Web Functions.
-* **Cẩm Đào:** Chia sẻ về xử lý bất đồng bộ với Amazon SQS.
+* **Luong Cam Dao:** Chia sẻ về xử lý bất đồng bộ với Amazon SQS.
 * **Hưng Trần:** Chia sẻ kinh nghiệm đóng góp mã nguồn mở.
 
 ### Nội dung nổi bật
@@ -40,7 +40,7 @@ Diễn giả chia sẻ cách sử dụng AI trong quá trình review mã nguồn
 
 #### Kinh nghiệm xây dựng web game
 
-Phúc Khang trình bày quá trình xây dựng game nhiều người chơi với Lambda, DynamoDB, SQS và EventBridge. Phần chia sẻ đề cập việc xử lý các trận kết thúc đồng thời, phân quyền IAM và quản lý hạ tầng bằng AWS CDK. Những khó khăn trong quá trình làm giúp minh họa tầm quan trọng của việc đọc tài liệu và kiểm tra cấu hình dịch vụ. ([Xem từ 52:29](https://www.youtube.com/watch?v=qRSxBAPYttM&t=3149))
+Khanh Duong trình bày quá trình xây dựng game nhiều người chơi với Lambda, DynamoDB, SQS và EventBridge. Phần chia sẻ đề cập việc xử lý các trận kết thúc đồng thời, phân quyền IAM và quản lý hạ tầng bằng AWS CDK. Những khó khăn trong quá trình làm giúp minh họa tầm quan trọng của việc đọc tài liệu và kiểm tra cấu hình dịch vụ. ([Xem từ 52:29](https://www.youtube.com/watch?v=qRSxBAPYttM&t=3149))
 
 #### AWS Lambda Web Functions
 
@@ -48,7 +48,7 @@ Phiên này giới thiệu cách chạy ứng dụng HTTP trên Lambda và khả
 
 #### Xử lý bất đồng bộ với Amazon SQS
 
-Cẩm Đào trình bày bài toán API phải chờ lâu khi yêu cầu tạo nội dung được xử lý. Giải pháp được giới thiệu là đưa công việc vào hàng đợi SQS, trả trạng thái chờ và xử lý sau. Phiên chia sẻ cũng đề cập Standard Queue, FIFO Queue, visibility timeout, long polling và dead-letter queue. ([Xem từ 1:42:19](https://www.youtube.com/watch?v=qRSxBAPYttM&t=6139))
+Luong Cam Dao trình bày bài toán API phải chờ lâu khi yêu cầu tạo nội dung được xử lý. Giải pháp được giới thiệu là đưa công việc vào hàng đợi SQS, trả trạng thái chờ và xử lý sau. Phiên chia sẻ cũng đề cập Standard Queue, FIFO Queue, visibility timeout, long polling và dead-letter queue. ([Xem từ 1:42:19](https://www.youtube.com/watch?v=qRSxBAPYttM&t=6139))
 
 #### Đóng góp mã nguồn mở
 
