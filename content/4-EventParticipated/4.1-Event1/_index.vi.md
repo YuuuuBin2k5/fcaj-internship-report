@@ -34,27 +34,43 @@ pre: "<b>4.1. </b>"
 
 #### Lộ trình học AWS
 
-* Phiên đầu giới thiệu cách kết hợp AWS Skill Builder để học nền tảng, các bài lab của cộng đồng để thực hành và AWS Builder Center để tìm đọc, chia sẻ kiến thức. Người học nên ghi lại lỗi và những gì đã hiểu sau mỗi bài lab.
+* **Học nền tảng:** Sử dụng các khóa học và bài kiểm tra trên AWS Skill Builder để làm quen với cloud.
+* **Thực hành:** Làm lab của AWS Study Group theo từng bước, ghi lại lỗi và cách xử lý; dọn tài nguyên sau khi hoàn thành.
+* **Chia sẻ:** Tổng hợp kiến thức thành dự án nhỏ hoặc bài viết trên AWS Builder Center.
 
 #### AI trong phát triển phần mềm
 
-* Diễn giả chia sẻ cách sử dụng AI trong quá trình review mã nguồn và tự động hóa một số công việc. Nhóm sử dụng kiểm thử end-to-end, ảnh hoặc video để kiểm tra thay đổi, đồng thời chuyển các tác vụ như lint và migration lên máy chủ chung.
+* **Trao đổi ý tưởng:** Dùng AI hỗ trợ tổng hợp thảo luận và khám phá các phương án trước khi chọn hướng triển khai.
+* **Kiểm tra thay đổi:** Kết hợp review tự động với kiểm thử end-to-end, ảnh trước/sau hoặc video luồng chạy.
+* **Môi trường làm việc:** Đưa các tác vụ lint và migration lên máy chủ chung để giảm thời gian chờ trên máy cá nhân.
 
 #### Kinh nghiệm xây dựng web game
 
-* Khanh Duong trình bày quá trình xây dựng game nhiều người chơi với Lambda, DynamoDB, SQS và EventBridge. Phần chia sẻ đề cập việc xử lý các trận kết thúc đồng thời, phân quyền IAM và quản lý hạ tầng bằng AWS CDK. Những khó khăn trong quá trình làm giúp minh họa tầm quan trọng của việc đọc tài liệu và kiểm tra cấu hình dịch vụ.
+* **Kiến trúc serverless:** Sử dụng Lambda và DynamoDB cho các thao tác của game; kết hợp SQS để xử lý các công việc phát sinh khi nhiều trận kết thúc.
+* **Công việc theo lịch:** Cập nhật bảng xếp hạng định kỳ và dùng EventBridge cho bài toán theo dõi thời gian.
+* **Bài học bảo mật:** Không gom mọi quyền vào một IAM Role; cân nhắc dùng Secrets Manager để quản lý thông tin nhạy cảm.
+* **Infrastructure as Code:** Dùng AWS CDK và CloudFormation để mô tả, triển khai hạ tầng nhất quán.
 
 #### AWS Lambda Web Functions
 
-* Phiên này giới thiệu cách chạy ứng dụng HTTP trên Lambda và khả năng xử lý nhiều request đồng thời trong một môi trường. Bản demo là một website trắc nghiệm tính cách; diễn giả cũng trao đổi về cold start và chi phí khi ứng dụng chờ phản hồi từ dịch vụ khác.
+* **Cách hoạt động:** Ứng dụng xử lý HTTP có thể chạy trong môi trường Lambda; một môi trường có thể phục vụ nhiều request đồng thời.
+* **Hiệu năng:** Diễn giả so sánh cold start và khả năng phục vụ các request tiếp theo trong bản demo.
+* **Tính phí:** Phần chia sẻ đề cập chi phí theo request, CPU hoạt động và bộ nhớ; cần xem cấu hình và mức sử dụng thực tế khi dự toán.
+* **Demo:** Website trắc nghiệm tính cách sử dụng CloudFront và Lambda Web Functions.
 
 #### Xử lý bất đồng bộ với Amazon SQS
 
-* Luong Cam Dao trình bày bài toán API phải chờ lâu khi yêu cầu tạo nội dung được xử lý. Giải pháp được giới thiệu là đưa công việc vào hàng đợi SQS, trả trạng thái chờ và xử lý sau. Phiên chia sẻ cũng đề cập Standard Queue, FIFO Queue, visibility timeout, long polling và dead-letter queue.
+* **Bài toán:** API chờ xử lý tạo nội dung bằng Amazon Bedrock khiến người dùng phải đợi phản hồi.
+* **Giải pháp:** API đưa yêu cầu vào queue và trả trạng thái pending; tác vụ được xử lý phía sau.
+* **Loại queue:** Standard và FIFO có đặc điểm khác nhau về thứ tự xử lý và khả năng thông lượng.
+* **Xử lý lỗi:** Visibility timeout tạm ẩn message khi xử lý; dead-letter queue lưu các message thất bại sau nhiều lần thử lại.
+* **Demo:** Tạo queue, gửi và nhận message qua AWS Console và mã nguồn.
 
 #### Đóng góp mã nguồn mở
 
-* Phiên cuối chia sẻ cách bắt đầu từ các issue phù hợp với khả năng, viết pull request rõ ràng và duy trì việc đóng góp. Diễn giả cũng khuyến khích tìm hiểu các thay đổi của AWS để tìm cơ hội đóng góp cho những dự án như AWS CDK.
+* **Bắt đầu:** Chọn issue vừa sức, đọc hướng dẫn đóng góp và tìm hiểu phần mã liên quan.
+* **Tạo pull request:** Giữ thay đổi rõ ràng, có phạm vi nhỏ để người review dễ kiểm tra.
+* **Duy trì:** Theo dõi thay đổi của dự án, trao đổi với maintainer và đóng góp đều đặn.
 
 ### Những gì học được
 

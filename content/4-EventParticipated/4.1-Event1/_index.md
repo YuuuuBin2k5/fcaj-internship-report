@@ -34,27 +34,43 @@ pre: "<b>4.1. </b>"
 
 #### Learning AWS
 
-* The opening session suggested combining AWS Skill Builder for fundamentals, community labs for practice, and AWS Builder Center for reading and sharing. Learners were encouraged to document errors and lessons after each lab.
+* **Fundamentals:** Use courses and quizzes on AWS Skill Builder to learn cloud basics.
+* **Practice:** Follow AWS Study Group labs, record errors and solutions, and clean up resources afterward.
+* **Sharing:** Turn what was learned into a small project or an AWS Builder Center article.
 
 #### AI in software development
 
-* The speaker discussed using AI for code review and automating development tasks. The team uses end-to-end tests, screenshots, or videos to check changes and runs tasks such as linting and migrations on a shared server.
+* **Exploring ideas:** Use AI to help summarize discussions and explore implementation options.
+* **Checking changes:** Combine automated review with end-to-end tests, before/after screenshots, or flow recordings.
+* **Development environment:** Run lint and migration tasks on a shared server to reduce waiting time on individual machines.
 
 #### Building a web game
 
-* Khanh Duong discussed building a multiplayer game with Lambda, DynamoDB, SQS, and EventBridge. The session covered processing simultaneous game completions, IAM permissions, and infrastructure management with AWS CDK. Challenges in the project showed why reviewing service documentation and configuration matters.
+* **Serverless architecture:** Use Lambda and DynamoDB for game operations and SQS for work generated when many matches end.
+* **Scheduled work:** Update rankings periodically and use EventBridge for a time-related monitoring task.
+* **Security lessons:** Avoid putting all permissions in one IAM role and consider Secrets Manager for sensitive information.
+* **Infrastructure as code:** Use AWS CDK and CloudFormation to define and deploy infrastructure consistently.
 
 #### AWS Lambda Web Functions
 
-* This session introduced running HTTP applications on Lambda and handling multiple concurrent requests in one environment. The demo showed a personality quiz website; the speaker also discussed cold starts and costs when an application waits for another service.
+* **Operation:** An HTTP application runs in a Lambda environment that can serve multiple concurrent requests.
+* **Performance:** The speaker compared cold starts with subsequent requests in the demonstration.
+* **Pricing:** The session discussed requests, active CPU, and memory; estimates depend on actual configuration and usage.
+* **Demo:** A personality quiz website used CloudFront and Lambda Web Functions.
 
 #### Asynchronous processing with Amazon SQS
 
-* Luong Cam Dao presented an API that took a long time to generate content. The proposed solution placed work in an SQS queue, returned a pending status, and processed it later. The session also covered Standard and FIFO queues, visibility timeout, long polling, and dead-letter queues.
+* **Problem:** The API waited for Amazon Bedrock to generate content, making users wait for a response.
+* **Solution:** The API places a request in a queue and returns a pending status while processing continues in the background.
+* **Queue types:** Standard and FIFO differ in ordering and throughput characteristics.
+* **Failure handling:** Visibility timeout temporarily hides a message during processing; a dead-letter queue holds messages that fail repeatedly.
+* **Demo:** Create a queue and send and receive messages through the AWS Console and code.
 
 #### Open-source contributions
 
-* The final session discussed starting with suitable issues, writing clear pull requests, and contributing consistently. The speaker also suggested following AWS updates to find contribution opportunities in projects such as AWS CDK.
+* **Getting started:** Choose a manageable issue, read the contribution guide, and study the relevant code.
+* **Pull requests:** Keep changes clear and focused so reviewers can assess them.
+* **Consistency:** Follow project updates, communicate with maintainers, and contribute regularly.
 
 ### Key Takeaways
 
